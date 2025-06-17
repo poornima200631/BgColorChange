@@ -1,0 +1,45 @@
+.buttons{
+  padding-left: 400px;
+  padding-right: 200px;
+  padding-top: 350px;
+  padding-bottom: 200px;
+}
+#Violet{
+    background-color: Violet;
+    color: white;
+    padding: 15px 30px;
+}
+
+#Indigo{
+    background-color: indigo;
+    color: white;
+    padding: 15px 30px;
+}
+
+#Blue{
+    background-color: blue;
+    color:white;
+    padding: 15px 30px;
+}
+
+#Green{
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+}
+
+#Yellow{
+    background-color: yellow;
+    color:black;
+    padding: 15px 30px;
+}
+#Orange{
+    background-color: orange;
+    color: white;
+    padding: 15px 30px;
+}
+#Red{
+    background-color: red;
+    color: white;
+    padding: 15px 30px;
+}
