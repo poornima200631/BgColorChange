@@ -5,17 +5,18 @@ function bgcolor(color,className){
   for (let i = 0; i < a.length; i++) {
     a[i].style.fontWeight = "normal";
     a[i].style.fontSize = "12px";
-    
+    a[i].style.borderColor="black"
 
   }
 
   
   if (ele) {
     ele.style.fontWeight = "bold";
-    ele.style.fontSize="20px"
+    ele.style.fontSize="14px"
     ele.style.alignItems = "center";
     ele.style.justifyContent = "center"
-   
+    ele.style.borderColor="white"
+    
   }
  
 }
